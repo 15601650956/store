@@ -1,4 +1,4 @@
-profile: store
+profile: store_modify
 user:
   name:name
   pass:pass
